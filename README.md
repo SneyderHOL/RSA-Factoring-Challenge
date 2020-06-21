@@ -5,7 +5,7 @@ Optional Project about RSA challenge
 
 factors - is a program that factorize as many numbers as possible into a product of two smallers numbers.
 
-Usage: factors &ltfile&gt
+Usage: factors &lt;file&gt;
 
     where <file> is a file containing natural numbers to factor.
     One number per line
@@ -34,4 +34,4 @@ This task is the same as factors task, except:
     p and q are always prime numbers
     There is only one number in the files
 
-Usage: rsa &ltfile&gt
+Usage: rsa &lt;file&gt;
